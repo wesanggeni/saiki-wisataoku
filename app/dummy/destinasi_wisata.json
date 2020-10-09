@@ -1,0 +1,358 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "places": [
+            {
+                "id": 29,
+                "city_id": 35,
+                "name": "tes",
+                "slug": "tes",
+                "thumb": "5f2cf72ec9927_1596782382.jpg",
+                "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                "description": "tes",
+                "city": {
+                    "id": 35,
+                    "name": "Baturaja Timur",
+                    "slug": "baturaja-timur",
+                    "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                    "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja.",
+                    "translations": [
+                        {
+                            "id": 3,
+                            "city_id": 35,
+                            "locale": "en",
+                            "name": "East Baturaja",
+                            "intro": "East Baturaja An area famous for its Pasar Baru characteristics",
+                            "description": "Historically, the division of Ogan Komering Ulu Regency into East Ogan Komering Ulu Regency, South Ogan Komering Ulu and Ogan Komering Ulu Regency, is a repetition of the previously existing and applicable form of Governmental division known as the Ogan Afdeling (Regency) government and Komering Ulu in the in 1918 with the capital city of Muaradua which was later moved to Baturaja."
+                        },
+                        {
+                            "id": 4,
+                            "city_id": 35,
+                            "locale": "id",
+                            "name": "Baturaja Timur",
+                            "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                            "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja."
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 11,
+                        "place_id": 29,
+                        "locale": "en",
+                        "name": "tes",
+                        "description": "tes"
+                    },
+                    {
+                        "id": 12,
+                        "place_id": 29,
+                        "locale": "id",
+                        "name": "tes",
+                        "description": "tes"
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "city_id": 37,
+                "name": "Jembatan Lesung Bintang",
+                "slug": "jembatan-lesung-bintang",
+                "thumb": "5f2cf6c1bf402_1596782273.jpg",
+                "address": "Batu Kuning, Batu Raja Bar., Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                "description": "tes satu",
+                "city": {
+                    "id": 37,
+                    "name": "Batu Kuning",
+                    "slug": "batu-kuning",
+                    "intro": null,
+                    "description": null,
+                    "translations": [
+                        {
+                            "id": 7,
+                            "city_id": 37,
+                            "locale": "en",
+                            "name": null,
+                            "intro": null,
+                            "description": null
+                        },
+                        {
+                            "id": 8,
+                            "city_id": 37,
+                            "locale": "id",
+                            "name": "Batu Kuning",
+                            "intro": null,
+                            "description": null
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 13,
+                        "place_id": 30,
+                        "locale": "en",
+                        "name": "tes satu",
+                        "description": "tes satu"
+                    },
+                    {
+                        "id": 14,
+                        "place_id": 30,
+                        "locale": "id",
+                        "name": "Jembatan Lesung Bintang",
+                        "description": "tes satu"
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "city_id": 36,
+                "name": "tes dua",
+                "slug": "tes-dua",
+                "thumb": "5f2cf7458c9b9_1596782405.jpg",
+                "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                "description": "tes dua",
+                "city": {
+                    "id": 36,
+                    "name": "Baturaja Barat",
+                    "slug": "baturaja-barat",
+                    "intro": null,
+                    "description": null,
+                    "translations": [
+                        {
+                            "id": 5,
+                            "city_id": 36,
+                            "locale": "en",
+                            "name": "West Baturaja",
+                            "intro": null,
+                            "description": null
+                        },
+                        {
+                            "id": 6,
+                            "city_id": 36,
+                            "locale": "id",
+                            "name": "Baturaja Barat",
+                            "intro": null,
+                            "description": null
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 15,
+                        "place_id": 31,
+                        "locale": "en",
+                        "name": "tes dua",
+                        "description": "tes dua"
+                    },
+                    {
+                        "id": 16,
+                        "place_id": 31,
+                        "locale": "id",
+                        "name": "tes dua",
+                        "description": "tes dua"
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "city_id": 38,
+                "name": "test tiga",
+                "slug": "test-tiga",
+                "thumb": "5f2cf73acef33_1596782394.jpg",
+                "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                "description": "test tiga",
+                "city": {
+                    "id": 38,
+                    "name": "Kemalaraja",
+                    "slug": "kemalaraja",
+                    "intro": null,
+                    "description": null,
+                    "translations": [
+                        {
+                            "id": 9,
+                            "city_id": 38,
+                            "locale": "en",
+                            "name": null,
+                            "intro": null,
+                            "description": null
+                        },
+                        {
+                            "id": 10,
+                            "city_id": 38,
+                            "locale": "id",
+                            "name": "Kemalaraja",
+                            "intro": null,
+                            "description": null
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 17,
+                        "place_id": 32,
+                        "locale": "en",
+                        "name": "test tiga",
+                        "description": "test tiga"
+                    },
+                    {
+                        "id": 18,
+                        "place_id": 32,
+                        "locale": "id",
+                        "name": "test tiga",
+                        "description": "test tiga"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "city_id": 39,
+                "name": "Hokye Nama Tempat Wisata",
+                "slug": "hokye-nama-tempat-wisata",
+                "thumb": "5f2cf37b6d017_1596781435.jpg",
+                "address": "Saung Naga, Buay Runjung, Kabupaten Ogan Komering Ulu Selatan, Sumatera Selatan, Indonesia",
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "city": {
+                    "id": 39,
+                    "name": "Saung Naga",
+                    "slug": "saung-naga",
+                    "intro": null,
+                    "description": null,
+                    "translations": [
+                        {
+                            "id": 11,
+                            "city_id": 39,
+                            "locale": "en",
+                            "name": null,
+                            "intro": null,
+                            "description": null
+                        },
+                        {
+                            "id": 12,
+                            "city_id": 39,
+                            "locale": "id",
+                            "name": "Saung Naga",
+                            "intro": null,
+                            "description": null
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 19,
+                        "place_id": 33,
+                        "locale": "en",
+                        "name": "test empat",
+                        "description": "test empat"
+                    },
+                    {
+                        "id": 20,
+                        "place_id": 33,
+                        "locale": "id",
+                        "name": "Hokye Nama Tempat Wisata",
+                        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "city_id": 35,
+                "name": "Testing Data Dummy",
+                "slug": "testing-data-dummy",
+                "thumb": "5f34aadd9504b_1597287133.jpg",
+                "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                "description": "Testing Data Dummy",
+                "city": {
+                    "id": 35,
+                    "name": "Baturaja Timur",
+                    "slug": "baturaja-timur",
+                    "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                    "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja.",
+                    "translations": [
+                        {
+                            "id": 3,
+                            "city_id": 35,
+                            "locale": "en",
+                            "name": "East Baturaja",
+                            "intro": "East Baturaja An area famous for its Pasar Baru characteristics",
+                            "description": "Historically, the division of Ogan Komering Ulu Regency into East Ogan Komering Ulu Regency, South Ogan Komering Ulu and Ogan Komering Ulu Regency, is a repetition of the previously existing and applicable form of Governmental division known as the Ogan Afdeling (Regency) government and Komering Ulu in the in 1918 with the capital city of Muaradua which was later moved to Baturaja."
+                        },
+                        {
+                            "id": 4,
+                            "city_id": 35,
+                            "locale": "id",
+                            "name": "Baturaja Timur",
+                            "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                            "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja."
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 21,
+                        "place_id": 34,
+                        "locale": "en",
+                        "name": "Testing Data Dummy",
+                        "description": "Testing Data Dummy"
+                    },
+                    {
+                        "id": 22,
+                        "place_id": 34,
+                        "locale": "id",
+                        "name": "Testing Data Dummy",
+                        "description": "Testing Data Dummy"
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "city_id": 35,
+                "name": "Testing Data Dummy",
+                "slug": "testing-data-dummy",
+                "thumb": "5f34aaeacfaf3_1597287146.jpg",
+                "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                "description": "Testing Data Dummy",
+                "city": {
+                    "id": 35,
+                    "name": "Baturaja Timur",
+                    "slug": "baturaja-timur",
+                    "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                    "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja.",
+                    "translations": [
+                        {
+                            "id": 3,
+                            "city_id": 35,
+                            "locale": "en",
+                            "name": "East Baturaja",
+                            "intro": "East Baturaja An area famous for its Pasar Baru characteristics",
+                            "description": "Historically, the division of Ogan Komering Ulu Regency into East Ogan Komering Ulu Regency, South Ogan Komering Ulu and Ogan Komering Ulu Regency, is a repetition of the previously existing and applicable form of Governmental division known as the Ogan Afdeling (Regency) government and Komering Ulu in the in 1918 with the capital city of Muaradua which was later moved to Baturaja."
+                        },
+                        {
+                            "id": 4,
+                            "city_id": 35,
+                            "locale": "id",
+                            "name": "Baturaja Timur",
+                            "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                            "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja."
+                        }
+                    ]
+                },
+                "translations": [
+                    {
+                        "id": 23,
+                        "place_id": 35,
+                        "locale": "en",
+                        "name": "Testing Data Dummy",
+                        "description": "Testing Data Dummy"
+                    },
+                    {
+                        "id": 24,
+                        "place_id": 35,
+                        "locale": "id",
+                        "name": "Testing Data Dummy",
+                        "description": "Testing Data Dummy"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,582 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "city": {
+            "id": 35,
+            "country_id": 13,
+            "name": "East Baturaja",
+            "slug": "baturaja-timur",
+            "intro": null,
+            "description": "Historically, the division of Ogan Komering Ulu Regency into East Ogan Komering Ulu Regency, South Ogan Komering Ulu and Ogan Komering Ulu Regency, is a repetition of the previously existing and applicable form of Governmental division known as the Ogan Afdeling (Regency) government and Komering Ulu in the in 1918 with the capital city of Muaradua which was later moved to Baturaja.",
+            "thumb": "5f1d21711f3b1_1595744625.jpg",
+            "banner": "5f1d21711fc06_1595744625.jpg",
+            "best_time_to_visit": "24 jam",
+            "currency": "Rupiah",
+            "language": "Indonesia",
+            "lat": -4.1540887,
+            "lng": 104.204716,
+            "priority": 1,
+            "status": 1,
+            "seo_title": null,
+            "seo_description": null,
+            "created_at": "2020-07-15 06:37:56",
+            "updated_at": "2020-07-26 06:23:45",
+            "translations": [
+                {
+                    "id": 3,
+                    "city_id": 35,
+                    "locale": "en",
+                    "name": "East Baturaja",
+                    "intro": null,
+                    "description": "Historically, the division of Ogan Komering Ulu Regency into East Ogan Komering Ulu Regency, South Ogan Komering Ulu and Ogan Komering Ulu Regency, is a repetition of the previously existing and applicable form of Governmental division known as the Ogan Afdeling (Regency) government and Komering Ulu in the in 1918 with the capital city of Muaradua which was later moved to Baturaja."
+                },
+                {
+                    "id": 4,
+                    "city_id": 35,
+                    "locale": "id",
+                    "name": "Baturaja Timur",
+                    "intro": null,
+                    "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja."
+                }
+            ]
+        },
+        "categories": [
+            {
+                "id": 11,
+                "name": "See & Do",
+                "priority": 1,
+                "slug": "see-do",
+                "place_count": 5,
+                "feature_title": null,
+                "translations": [
+                    {
+                        "id": 1,
+                        "category_id": 11,
+                        "locale": "en",
+                        "name": "See & Do",
+                        "feature_title": null
+                    },
+                    {
+                        "id": 9,
+                        "category_id": 11,
+                        "locale": "id",
+                        "name": "Destinasi Tempat Wisata",
+                        "feature_title": null
+                    }
+                ]
+            }
+        ],
+        "features": [
+            {
+                "category_id": 11,
+                "category_name": "See & Do",
+                "category_slug": "see-do",
+                "feature_title": null,
+                "places": [
+                    {
+                        "id": 29,
+                        "user_id": 13,
+                        "country_id": 13,
+                        "city_id": 35,
+                        "category": [
+                            "11"
+                        ],
+                        "place_type": [
+                            "27"
+                        ],
+                        "name": "tes",
+                        "slug": "tes",
+                        "description": "tes",
+                        "price_range": 0,
+                        "amenities": [
+                            "11"
+                        ],
+                        "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+                        "lat": -4.1540887,
+                        "lng": 104.204716,
+                        "email": "admin@test.com",
+                        "phone_number": "08909090",
+                        "website": null,
+                        "social": [
+                            {
+                                "name": "Facebook",
+                                "url": null
+                            }
+                        ],
+                        "opening_hour": [
+                            {
+                                "title": "Monday",
+                                "value": null
+                            },
+                            {
+                                "title": "Tuesday",
+                                "value": null
+                            },
+                            {
+                                "title": "Wednesday",
+                                "value": null
+                            },
+                            {
+                                "title": "Thursday",
+                                "value": null
+                            },
+                            {
+                                "title": "Friday",
+                                "value": null
+                            },
+                            {
+                                "title": "Saturday",
+                                "value": null
+                            },
+                            {
+                                "title": "Sunday",
+                                "value": null
+                            }
+                        ],
+                        "thumb": "5f1d41d6ef7b8_1595752918.jpg",
+                        "gallery": null,
+                        "video": null,
+                        "booking_type": null,
+                        "link_bookingcom": null,
+                        "status": 1,
+                        "priority": null,
+                        "seo_title": null,
+                        "seo_description": null,
+                        "created_at": "2020-07-26 08:01:28",
+                        "updated_at": null,
+                        "reviews_count": 0,
+                        "wish_list_count": 0,
+                        "place_types": [
+                            {
+                                "id": 27,
+                                "category_id": 11,
+                                "name": "Activity",
+                                "created_at": "2019-11-04 16:39:38",
+                                "updated_at": "2019-11-04 16:39:38",
+                                "translations": [
+                                    {
+                                        "id": 3,
+                                        "place_type_id": 27,
+                                        "locale": "en",
+                                        "name": "Activity"
+                                    }
+                                ]
+                            }
+                        ],
+                        "avg_review": [],
+                        "translations": [
+                            {
+                                "id": 11,
+                                "place_id": 29,
+                                "locale": "en",
+                                "name": "tes",
+                                "description": "tes"
+                            },
+                            {
+                                "id": 12,
+                                "place_id": 29,
+                                "locale": "id",
+                                "name": "tes",
+                                "description": "tes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category_id": 12,
+                "category_name": "Eat & Drink",
+                "category_slug": "eat-drink",
+                "feature_title": null,
+                "places": []
+            },
+            {
+                "category_id": 13,
+                "category_name": "Stay",
+                "category_slug": "stay",
+                "feature_title": null,
+                "places": []
+            },
+            {
+                "category_id": 20,
+                "category_name": "Tour & Travel Agent",
+                "category_slug": "tour-and-travel-agent",
+                "feature_title": "",
+                "places": []
+            }
+        ],
+        "places_by_category": [],
+        "cat_slug": "",
+        "place_types": [
+            {
+                "id": 25,
+                "category_id": 12,
+                "name": "Restaurant",
+                "created_at": "2019-10-25 11:17:39",
+                "updated_at": "2019-10-25 11:17:39",
+                "translations": [
+                    {
+                        "id": 1,
+                        "place_type_id": 25,
+                        "locale": "en",
+                        "name": "Restaurant"
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "category_id": 12,
+                "name": "Coffee Shop",
+                "created_at": "2019-10-25 11:17:50",
+                "updated_at": "2019-10-25 11:17:50",
+                "translations": [
+                    {
+                        "id": 2,
+                        "place_type_id": 26,
+                        "locale": "en",
+                        "name": "Coffee Shop"
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "category_id": 11,
+                "name": "Activity",
+                "created_at": "2019-11-04 16:39:38",
+                "updated_at": "2019-11-04 16:39:38",
+                "translations": [
+                    {
+                        "id": 3,
+                        "place_type_id": 27,
+                        "locale": "en",
+                        "name": "Activity"
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "category_id": 11,
+                "name": "Museum",
+                "created_at": "2019-11-04 16:39:53",
+                "updated_at": "2019-11-04 16:39:53",
+                "translations": [
+                    {
+                        "id": 4,
+                        "place_type_id": 28,
+                        "locale": "en",
+                        "name": "Museum"
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "category_id": 11,
+                "name": "Temple",
+                "created_at": "2019-11-04 16:40:09",
+                "updated_at": "2019-11-04 16:40:09",
+                "translations": [
+                    {
+                        "id": 5,
+                        "place_type_id": 29,
+                        "locale": "en",
+                        "name": "Temple"
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "category_id": 11,
+                "name": "Culture",
+                "created_at": "2019-11-04 16:40:25",
+                "updated_at": "2019-11-04 16:40:25",
+                "translations": [
+                    {
+                        "id": 6,
+                        "place_type_id": 30,
+                        "locale": "en",
+                        "name": "Culture"
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "category_id": 11,
+                "name": "Park",
+                "created_at": "2019-11-04 16:40:39",
+                "updated_at": "2019-11-04 16:40:39",
+                "translations": [
+                    {
+                        "id": 7,
+                        "place_type_id": 31,
+                        "locale": "en",
+                        "name": "Park"
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "category_id": 11,
+                "name": "Market",
+                "created_at": "2019-11-04 16:40:54",
+                "updated_at": "2019-11-04 16:40:54",
+                "translations": [
+                    {
+                        "id": 8,
+                        "place_type_id": 32,
+                        "locale": "en",
+                        "name": "Market"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "category_id": 13,
+                "name": "Hostel",
+                "created_at": "2019-11-04 16:41:13",
+                "updated_at": "2019-11-04 16:41:13",
+                "translations": [
+                    {
+                        "id": 9,
+                        "place_type_id": 33,
+                        "locale": "en",
+                        "name": "Hostel"
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "category_id": 13,
+                "name": "Hotel",
+                "created_at": "2019-11-04 16:41:22",
+                "updated_at": "2019-11-04 16:41:22",
+                "translations": [
+                    {
+                        "id": 10,
+                        "place_type_id": 34,
+                        "locale": "en",
+                        "name": "Hotel"
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "category_id": 13,
+                "name": "Luxury",
+                "created_at": "2019-11-04 16:41:33",
+                "updated_at": "2019-11-04 16:41:33",
+                "translations": [
+                    {
+                        "id": 11,
+                        "place_type_id": 35,
+                        "locale": "en",
+                        "name": "Luxury"
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "category_id": 13,
+                "name": "Apartment",
+                "created_at": "2019-11-04 16:42:03",
+                "updated_at": "2019-11-04 16:42:03",
+                "translations": [
+                    {
+                        "id": 12,
+                        "place_type_id": 36,
+                        "locale": "en",
+                        "name": "Apartment"
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "category_id": 12,
+                "name": "Bars",
+                "created_at": "2019-11-04 16:42:21",
+                "updated_at": "2019-11-04 16:42:21",
+                "translations": [
+                    {
+                        "id": 13,
+                        "place_type_id": 37,
+                        "locale": "en",
+                        "name": "Bars"
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "category_id": 12,
+                "name": "Bakeries",
+                "created_at": "2019-11-04 16:42:39",
+                "updated_at": "2019-11-04 16:42:39",
+                "translations": [
+                    {
+                        "id": 14,
+                        "place_type_id": 38,
+                        "locale": "en",
+                        "name": "Bakeries"
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "category_id": 11,
+                "name": "Sight",
+                "created_at": "2019-12-01 03:38:03",
+                "updated_at": "2019-12-01 03:38:03",
+                "translations": [
+                    {
+                        "id": 15,
+                        "place_type_id": 39,
+                        "locale": "en",
+                        "name": "Sight"
+                    }
+                ]
+            }
+        ],
+        "amenities": [
+            {
+                "id": 6,
+                "name": "Free wifi",
+                "icon": "5dc050bbc831e_1572884667.svg",
+                "created_at": "2019-11-02 16:02:01",
+                "updated_at": "2019-11-04 16:25:12",
+                "translations": [
+                    {
+                        "id": 1,
+                        "amenities_id": 6,
+                        "locale": "en",
+                        "name": "Free wifi"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Reservations",
+                "icon": "5dc050b32b5a5_1572884659.svg",
+                "created_at": "2019-11-04 14:37:01",
+                "updated_at": "2019-11-04 16:24:19",
+                "translations": [
+                    {
+                        "id": 2,
+                        "amenities_id": 7,
+                        "locale": "en",
+                        "name": "Reservations"
+                    },
+                    {
+                        "id": 13,
+                        "amenities_id": 7,
+                        "locale": "id",
+                        "name": "Reservasi"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Credit cards",
+                "icon": "5dc050aa39545_1572884650.svg",
+                "created_at": "2019-11-04 14:37:19",
+                "updated_at": "2019-11-04 16:24:10",
+                "translations": [
+                    {
+                        "id": 3,
+                        "amenities_id": 8,
+                        "locale": "en",
+                        "name": "Credit cards"
+                    },
+                    {
+                        "id": 12,
+                        "amenities_id": 8,
+                        "locale": "id",
+                        "name": "Kartu Kredit"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Non smoking",
+                "icon": "5dc0509592350_1572884629.svg",
+                "created_at": "2019-11-04 14:40:22",
+                "updated_at": "2019-11-04 16:23:49",
+                "translations": [
+                    {
+                        "id": 4,
+                        "amenities_id": 9,
+                        "locale": "en",
+                        "name": "Non smoking"
+                    },
+                    {
+                        "id": 11,
+                        "amenities_id": 9,
+                        "locale": "id",
+                        "name": "Dilarang Merokok"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Air conditioner",
+                "icon": "5e1fd3ff3dd32_1579144191.svg",
+                "created_at": "2019-11-04 16:21:12",
+                "updated_at": "2020-01-16 03:09:51",
+                "translations": [
+                    {
+                        "id": 5,
+                        "amenities_id": 10,
+                        "locale": "en",
+                        "name": "Air conditioner"
+                    },
+                    {
+                        "id": 10,
+                        "amenities_id": 10,
+                        "locale": "id",
+                        "name": "AC"
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "name": "Car parking",
+                "icon": "5e1fd3ea806fe_1579144170.svg",
+                "created_at": "2019-11-04 16:24:54",
+                "updated_at": "2020-01-16 03:09:30",
+                "translations": [
+                    {
+                        "id": 6,
+                        "amenities_id": 11,
+                        "locale": "en",
+                        "name": "Car parking"
+                    },
+                    {
+                        "id": 14,
+                        "amenities_id": 11,
+                        "locale": "id",
+                        "name": "Tempat Parkir"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Swimming pool",
+                "icon": "5dc050fc4f6dc_1572884732.svg",
+                "created_at": "2019-11-04 16:25:32",
+                "updated_at": "2019-11-04 16:25:32",
+                "translations": [
+                    {
+                        "id": 7,
+                        "amenities_id": 12,
+                        "locale": "en",
+                        "name": "Swimming pool"
+                    },
+                    {
+                        "id": 9,
+                        "amenities_id": 12,
+                        "locale": "id",
+                        "name": "Kolam Renang"
+                    }
+                ]
+            }
+        ]
+    }
+}

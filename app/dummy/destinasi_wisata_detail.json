@@ -1,0 +1,210 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "place": {
+            "id": 29,
+            "user_id": 13,
+            "country_id": 13,
+            "city_id": 35,
+            "category": [
+                "11"
+            ],
+            "place_type": [
+                "27"
+            ],
+            "name": "tes",
+            "slug": "tes",
+            "description": "tes",
+            "price_range": 0,
+            "amenities": [
+                "11"
+            ],
+            "address": "Kec. Baturaja Timur, Kabupaten Ogan Komering Ulu, Sumatera Selatan, Indonesia",
+            "lat": -4.1540887,
+            "lng": 104.204716,
+            "latitudeDelta": 0.09,
+            "longitudeDelta": 0.035,
+            "email": "admin@test.com",
+            "phone_number": "08909090",
+            "website": null,
+            "social": [
+                {
+                    "name": "Facebook",
+                    "url": null
+                }
+            ],
+            "opening_hour": [
+                {
+                    "title": "Monday",
+                    "value": null
+                },
+                {
+                    "title": "Tuesday",
+                    "value": null
+                },
+                {
+                    "title": "Wednesday",
+                    "value": null
+                },
+                {
+                    "title": "Thursday",
+                    "value": null
+                },
+                {
+                    "title": "Friday",
+                    "value": null
+                },
+                {
+                    "title": "Saturday",
+                    "value": null
+                },
+                {
+                    "title": "Sunday",
+                    "value": null
+                }
+            ],
+            "thumb": "5f2cf72ec9927_1596782382.jpg",
+            "gallery": null,
+            "video": null,
+            "booking_type": null,
+            "link_bookingcom": null,
+            "status": 1,
+            "priority": null,
+            "seo_title": null,
+            "seo_description": null,
+            "created_at": "2020-07-26 08:01:28",
+            "updated_at": "2020-08-07 06:39:42",
+            "translations": [
+                {
+                    "id": 11,
+                    "place_id": 29,
+                    "locale": "en",
+                    "name": "tes",
+                    "description": "tes"
+                },
+                {
+                    "id": 12,
+                    "place_id": 29,
+                    "locale": "id",
+                    "name": "tes",
+                    "description": "tes"
+                }
+            ]
+        },
+        "city": {
+            "id": 35,
+            "country_id": 13,
+            "name": "Baturaja Timur",
+            "slug": "baturaja-timur",
+            "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+            "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja.",
+            "thumb": "5f2ce97bb2b99_1596778875.jpg",
+            "banner": "5f2ce97bb2e74_1596778875.jpg",
+            "best_time_to_visit": "24 jam",
+            "currency": "Rupiah",
+            "language": "Indonesia",
+            "lat": -4.1540887,
+            "lng": 104.204716,
+            "priority": 1,
+            "status": 1,
+            "seo_title": null,
+            "seo_description": null,
+            "created_at": "2020-07-15 06:37:56",
+            "updated_at": "2020-08-07 05:41:15",
+            "country": {
+                "id": 13,
+                "name": "Indonesia",
+                "slug": "",
+                "priority": 0,
+                "status": 1,
+                "seo_title": null,
+                "seo_description": null,
+                "seo_cover_image": null,
+                "created_at": "2020-07-14 09:57:32",
+                "updated_at": null
+            },
+            "translations": [
+                {
+                    "id": 3,
+                    "city_id": 35,
+                    "locale": "en",
+                    "name": "East Baturaja",
+                    "intro": "East Baturaja An area famous for its Pasar Baru characteristics",
+                    "description": "Historically, the division of Ogan Komering Ulu Regency into East Ogan Komering Ulu Regency, South Ogan Komering Ulu and Ogan Komering Ulu Regency, is a repetition of the previously existing and applicable form of Governmental division known as the Ogan Afdeling (Regency) government and Komering Ulu in the in 1918 with the capital city of Muaradua which was later moved to Baturaja."
+                },
+                {
+                    "id": 4,
+                    "city_id": 35,
+                    "locale": "id",
+                    "name": "Baturaja Timur",
+                    "intro": "Baturaja Timur Sebuah Wilayah yang terkenal dengan ciri khas Pasar Baru",
+                    "description": "Secara historis, pemekaran Kabupaten Ogan Komering Ulu menjadi Kabupaten Ogan Komering Ulu Timur, Ogan Komering Ulu Selatan dan Kabupaten Ogan Komering Ulu, adalah pengulangan bentuk pembagian wilayah Pemerintahan yang pernah ada dan berlaku sebelumnya yang dikenal sebagai pemerintahan Afdeling (Kabupaten) Ogan dan Komering Ulu pada tahun 1918 dengan Ibu Kota Muaradua yang kemudian dipindahkan ke Baturaja."
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 11,
+                "name": "Tempat Parkir",
+                "icon": "5e1fd3ea806fe_1579144170.svg",
+                "translations": [
+                    {
+                        "id": 6,
+                        "amenities_id": 11,
+                        "locale": "en",
+                        "name": "Car parking"
+                    },
+                    {
+                        "id": 14,
+                        "amenities_id": 11,
+                        "locale": "id",
+                        "name": "Tempat Parkir"
+                    }
+                ]
+            }
+        ],
+        "categories": [
+            {
+                "id": 11,
+                "name": "Destinasi Tempat Wisata",
+                "slug": "see-do",
+                "icon_map_marker": "5ddba7be9c049_1574676414.svg",
+                "feature_title": null,
+                "translations": [
+                    {
+                        "id": 1,
+                        "category_id": 11,
+                        "locale": "en",
+                        "name": "See & Do",
+                        "feature_title": null
+                    },
+                    {
+                        "id": 9,
+                        "category_id": 11,
+                        "locale": "id",
+                        "name": "Destinasi Tempat Wisata",
+                        "feature_title": null
+                    }
+                ]
+            }
+        ],
+        "place_types": [
+            {
+                "id": 27,
+                "name": null,
+                "translations": [
+                    {
+                        "id": 3,
+                        "place_type_id": 27,
+                        "locale": "en",
+                        "name": "Activity"
+                    }
+                ]
+            }
+        ],
+        "reviews": [],
+        "review_score_avg": null,
+        "similar_places": []
+    }
+}
